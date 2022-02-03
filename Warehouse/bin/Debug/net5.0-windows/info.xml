@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<Node xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>root</Name>
+  <Children>
+    <Node>
+      <Name>wtf</Name>
+      <Children>
+        <Node>
+          <Name>aaa</Name>
+          <Children />
+          <Products />
+          <SortingIndex>0</SortingIndex>
+        </Node>
+        <Node>
+          <Name>Gen. Section 1899</Name>
+          <Children />
+          <Products>
+            <Product>
+              <Name>a</Name>
+              <Price>10000</Price>
+              <VendorCode>a</VendorCode>
+              <Ammount>15</Ammount>
+            </Product>
+          </Products>
+          <SortingIndex>0</SortingIndex>
+        </Node>
+        <Node>
+          <Name>Gen. Section 2060</Name>
+          <Children />
+          <Products />
+          <SortingIndex>0</SortingIndex>
+        </Node>
+        <Node>
+          <Name>Gen. Section 3006</Name>
+          <Children />
+          <Products />
+          <SortingIndex>0</SortingIndex>
+        </Node>
+        <Node>
+          <Name>Gen. Section 8793</Name>
+          <Children />
+          <Products />
+          <SortingIndex>0</SortingIndex>
+        </Node>
+        <Node>
+          <Name>Gen. Section 9505</Name>
+          <Children />
+          <Products />
+          <SortingIndex>0</SortingIndex>
+        </Node>
+      </Children>
+      <Products>
+        <Product>
+          <Name>sdasd</Name>
+          <Price>15000</Price>
+          <VendorCode>asdada</VendorCode>
+          <Ammount>1</Ammount>
+        </Product>
+        <Product>
+          <Name>Gen. product 1779</Name>
+          <Price>4045</Price>
+          <VendorCode>Gen. Code 69</VendorCode>
+          <Ammount>6</Ammount>
+        </Product>
+        <Product>
+          <Name>Gen. product 6556</Name>
+          <Price>4582</Price>
+          <VendorCode>Gen. Code 68</VendorCode>
+          <Ammount>7</Ammount>
+        </Product>
+        <Product>
+          <Name>Gen. product 4938</Name>
+          <Price>3442</Price>
+          <VendorCode>Gen. Code 63</VendorCode>
+          <Ammount>1</Ammount>
+        </Product>
+        <Product>
+          <Name>Gen. product 5406</Name>
+          <Price>2223</Price>
+          <VendorCode>Gen. Code 15</VendorCode>
+          <Ammount>8</Ammount>
+        </Product>
+      </Products>
+      <SortingIndex>100</SortingIndex>
+    </Node>
+    <Node>
+      <Name>Gen. Section 1199</Name>
+      <Children />
+      <Products>
+        <Product>
+          <Name>Gen. product 4549</Name>
+          <Price>1263</Price>
+          <VendorCode>Gen. Code 65</VendorCode>
+          <Ammount>6</Ammount>
+        </Product>
+        <Product>
+          <Name>Gen. product 7611</Name>
+          <Price>3570</Price>
+          <VendorCode>Gen. Code 91</VendorCode>
+          <Ammount>4</Ammount>
+        </Product>
+        <Product>
+          <Name>Gen. product 7590</Name>
+          <Price>3583</Price>
+          <VendorCode>Gen. Code 17</VendorCode>
+          <Ammount>2</Ammount>
+        </Product>
+        <Product>
+          <Name>Gen. product 8527</Name>
+          <Price>4751</Price>
+          <VendorCode>Gen. Code 17</VendorCode>
+          <Ammount>7</Ammount>
+        </Product>
+        <Product>
+          <Name>Gen. product 8954</Name>
+          <Price>4435</Price>
+          <VendorCode>Gen. Code 24</VendorCode>
+          <Ammount>4</Ammount>
+        </Product>
+      </Products>
+      <SortingIndex>0</SortingIndex>
+    </Node>
+    <Node>
+      <Name>Gen. Section 1488</Name>
+      <Children />
+      <Products />
+      <SortingIndex>0</SortingIndex>
+    </Node>
+    <Node>
+      <Name>Gen. Section 5534</Name>
+      <Children />
+      <Products />
+      <SortingIndex>0</SortingIndex>
+    </Node>
+    <Node>
+      <Name>Gen. Section 9921</Name>
+      <Children />
+      <Products />
+      <SortingIndex>0</SortingIndex>
+    </Node>
+    <Node>
+      <Name>section</Name>
+      <Children />
+      <Products />
+      <SortingIndex>0</SortingIndex>
+    </Node>
+  </Children>
+  <Products>
+    <Product>
+      <Name>Gen. product 9910</Name>
+      <Price>7000</Price>
+      <VendorCode>Gen. Code 61</VendorCode>
+      <Ammount>4</Ammount>
+    </Product>
+    <Product>
+      <Name>Gen. product 8059</Name>
+      <Price>5661</Price>
+      <VendorCode>Gen. Code 91</VendorCode>
+      <Ammount>3</Ammount>
+    </Product>
+    <Product>
+      <Name>product</Name>
+      <Price>5000</Price>
+      <VendorCode>abc101</VendorCode>
+      <Ammount>4</Ammount>
+    </Product>
+    <Product>
+      <Name>Gen. product 6383</Name>
+      <Price>1000</Price>
+      <VendorCode>Gen. Code 88</VendorCode>
+      <Ammount>4</Ammount>
+    </Product>
+    <Product>
+      <Name>name</Name>
+      <Price>15000</Price>
+      <VendorCode>code</VendorCode>
+      <Ammount>10</Ammount>
+    </Product>
+  </Products>
+  <SortingIndex>0</SortingIndex>
+</Node>
